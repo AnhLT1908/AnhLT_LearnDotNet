@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|d:\\fint_project\\anhlt1908\\anhlt_learndotnet\\classarraymodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|solutionrelative:classarraymodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|d:\\fint_project\\anhlt1908\\anhlt_learndotnet\\classarraymodifiers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|solutionrelative:classarraymodifiers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|d:\\fint_project\\anhlt1908\\anhlt_learndotnet\\classarraymodifiers\\classarraymodifiers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|solutionrelative:classarraymodifiers\\classarraymodifiers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|d:\\fint_project\\anhlt1908\\anhlt_learndotnet\\classarraymodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01966074-82AA-4ED0-BFC2-6F07AD5B422E}|ClassArrayModifiers\\ClassArrayModifiers.csproj|solutionrelative:classarraymodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8024CC44-EA82-4615-91A9-1DF7E7788CE1}|BasicSyntax\\BasicSyntax.csproj|d:\\fint_project\\anhlt1908\\anhlt_learndotnet\\basicsyntax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ClassArrayModifiers",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj",
               "RelativeDocumentMoniker": "ClassArrayModifiers\\ClassArrayModifiers.csproj",
@@ -43,26 +43,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\Student.cs",
               "RelativeDocumentMoniker": "ClassArrayModifiers\\Student.cs",
               "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\Student.cs",
               "RelativeToolTip": "ClassArrayModifiers\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T19:03:25.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\Program.cs",
               "RelativeDocumentMoniker": "ClassArrayModifiers\\Program.cs",
               "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\Program.cs",
               "RelativeToolTip": "ClassArrayModifiers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T19:02:54.627Z",
               "EditorCaption": ""

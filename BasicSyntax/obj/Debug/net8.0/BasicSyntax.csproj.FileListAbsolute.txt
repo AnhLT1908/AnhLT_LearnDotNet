@@ -1,0 +1,15 @@
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\bin\Debug\net8.0\BasicSyntax.exe
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\bin\Debug\net8.0\BasicSyntax.deps.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\bin\Debug\net8.0\BasicSyntax.runtimeconfig.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\bin\Debug\net8.0\BasicSyntax.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\bin\Debug\net8.0\BasicSyntax.pdb
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.AssemblyInfoInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.AssemblyInfo.cs
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.csproj.CoreCompileInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.sourcelink.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\refint\BasicSyntax.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.pdb
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\BasicSyntax.genruntimeconfig.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\BasicSyntax\obj\Debug\net8.0\ref\BasicSyntax.dll

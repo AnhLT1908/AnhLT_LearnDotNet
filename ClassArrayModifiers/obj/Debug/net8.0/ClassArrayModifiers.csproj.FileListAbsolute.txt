@@ -1,0 +1,15 @@
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\bin\Debug\net8.0\ClassArrayModifiers.exe
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\bin\Debug\net8.0\ClassArrayModifiers.deps.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\bin\Debug\net8.0\ClassArrayModifiers.runtimeconfig.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\bin\Debug\net8.0\ClassArrayModifiers.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\bin\Debug\net8.0\ClassArrayModifiers.pdb
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.AssemblyInfoInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.AssemblyInfo.cs
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.csproj.CoreCompileInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.sourcelink.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\refint\ClassArrayModifiers.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.pdb
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ClassArrayModifiers.genruntimeconfig.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\ClassArrayModifiers\obj\Debug\net8.0\ref\ClassArrayModifiers.dll
