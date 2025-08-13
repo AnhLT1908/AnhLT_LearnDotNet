@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicSyntax", "BasicSyntax\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassArrayModifiers", "ClassArrayModifiers\ClassArrayModifiers.csproj", "{01966074-82AA-4ED0-BFC2-6F07AD5B422E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLifeCycle", "CSharpLifeCycle\CSharpLifeCycle.csproj", "{1D93CE54-7188-48AA-836B-8C9AF3A7AE45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{01966074-82AA-4ED0-BFC2-6F07AD5B422E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01966074-82AA-4ED0-BFC2-6F07AD5B422E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01966074-82AA-4ED0-BFC2-6F07AD5B422E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D93CE54-7188-48AA-836B-8C9AF3A7AE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D93CE54-7188-48AA-836B-8C9AF3A7AE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D93CE54-7188-48AA-836B-8C9AF3A7AE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D93CE54-7188-48AA-836B-8C9AF3A7AE45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

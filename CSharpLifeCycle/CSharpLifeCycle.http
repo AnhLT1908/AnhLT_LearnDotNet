@@ -1,0 +1,6 @@
+@CSharpLifeCycle_HostAddress = http://localhost:5134
+
+GET {{CSharpLifeCycle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
