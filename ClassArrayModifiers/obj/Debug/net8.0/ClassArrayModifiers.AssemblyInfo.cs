@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassArrayModifiers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e12b1dbbea1dfcdc8c8bb25c1c83b8ba1a07e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1a64994a8abadf0c96a9936a17d9475ba47454")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassArrayModifiers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassArrayModifiers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
