@@ -15,7 +15,7 @@
 
        
             await _next(context);
-
+ 
             Console.WriteLine($"[Middleware] End request: StatusCode={context.Response.StatusCode}");
         }
     }

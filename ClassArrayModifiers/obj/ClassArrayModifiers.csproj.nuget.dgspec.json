@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\fint_intern\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj": {}
+    "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj": {}
   },
   "projects": {
-    "E:\\fint_intern\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj": {
+    "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fint_intern\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj",
+        "projectUniqueName": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj",
         "projectName": "ClassArrayModifiers",
-        "projectPath": "E:\\fint_intern\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj",
-        "packagesPath": "C:\\Users\\anhlt\\.nuget\\packages\\",
-        "outputPath": "E:\\fint_intern\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\obj\\",
+        "projectPath": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj",
+        "packagesPath": "C:\\Users\\anhlt1908\\.nuget\\packages\\",
+        "outputPath": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anhlt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anhlt1908\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

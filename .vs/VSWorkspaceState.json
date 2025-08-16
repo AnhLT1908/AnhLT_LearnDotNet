@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharpLifeCycle",
+    "\\CSharpLifeCycle.Business",
+    "\\CSharpLifeCycle.Business\\Services",
+    "\\CSharpLifeCycle.Data",
+    "\\CSharpLifeCycle.Data\\Models"
   ],
-  "SelectedNode": "\\AnhLT_LearnDotNet.sln",
+  "SelectedNode": "\\CSharpLifeCycle.Business\\DTOs",
   "PreviewInSolutionExplorer": false
 }
