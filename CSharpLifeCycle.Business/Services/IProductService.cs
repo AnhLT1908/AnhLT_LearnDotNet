@@ -1,7 +1,6 @@
-using CSharpLifeCycle.DTOs;
-using CSharpLifeCycle.Models;
+using CSharpLifeCycle.Business.DTOs;
 
-namespace CSharpLifeCycle.Services
+namespace CSharpLifeCycle.Business.Services
 {
     public interface IProductService
     {

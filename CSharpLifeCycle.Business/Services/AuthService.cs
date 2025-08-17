@@ -1,6 +1,6 @@
 using CSharpLifeCycle.Data;
-using CSharpLifeCycle.DTOs;
-using CSharpLifeCycle.Models;
+using CSharpLifeCycle.Business.DTOs;
+using CSharpLifeCycle.Data.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -9,23 +9,20 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace CSharpLifeCycle.Services
+namespace CSharpLifeCycle.Business.Services
 {
     public class AuthService : IAuthService
     {
         private readonly AppDbContext _db;
         private readonly IConfiguration _config;
-
         public AuthService(AppDbContext db, IConfiguration config)
         {
             _db = db;
             _config = config;
         }
-
         public async Task<User?> RegisterAsync(string username, string password, string? fullName)
         {
             if (await _db.Users.AnyAsync(u => u.Username == username)) return null;
-
             var user = new User
             {
                 Username = username,
@@ -37,24 +34,19 @@ namespace CSharpLifeCycle.Services
             await _db.SaveChangesAsync();
             return user;
         }
-
         public async Task<AuthResponse?> LoginAsync(string username, string password)
         {
             var user = await _db.Users.FirstOrDefaultAsync(u => u.Username == username && u.Password == password);
             if (user == null) return null;
-
             var jwtSection = _config.GetSection("Jwt");
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSection["Key"]!));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, user.Username),
                 new Claim(ClaimTypes.Role, user.Role)
             };
-
             var expires = DateTime.UtcNow.AddMinutes(int.Parse(jwtSection["ExpiresInMinutes"]!));
-
             var token = new JwtSecurityToken(
                 issuer: jwtSection["Issuer"],
                 audience: jwtSection["Audience"],
@@ -62,9 +54,7 @@ namespace CSharpLifeCycle.Services
                 expires: expires,
                 signingCredentials: creds
             );
-
             var jwt = new JwtSecurityTokenHandler().WriteToken(token);
-
             return new AuthResponse
             {
                 Token = jwt,
@@ -73,10 +63,9 @@ namespace CSharpLifeCycle.Services
                 ExpiresAt = expires
             };
         }
-
         public async Task<User?> GetByUsernameAsync(string username)
         {
             return await _db.Users.FirstOrDefaultAsync(u => u.Username == username);
         }
     }
-}
+} 

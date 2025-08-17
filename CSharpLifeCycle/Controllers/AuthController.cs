@@ -1,7 +1,7 @@
-﻿using CSharpLifeCycle.DTOs;
-using CSharpLifeCycle.Services;
+﻿using CSharpLifeCycle.Business.DTOs;
+using CSharpLifeCycle.Business.Services;
+using CSharpLifeCycle.Data.Models;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CSharpLifeCycle.Controllers

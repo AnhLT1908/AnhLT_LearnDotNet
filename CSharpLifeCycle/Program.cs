@@ -1,29 +1,25 @@
 ﻿using CSharpLifeCycle.Data;
 using CSharpLifeCycle.Filters;
 using CSharpLifeCycle.Middleware;
-using CSharpLifeCycle.Services;
+using CSharpLifeCycle.Business.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
-using CSharpLifeCycle.Models;
+using CSharpLifeCycle.Data.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
-
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IProductService, ProductService>();
-
 builder.Services.AddControllers(options =>
 {
     options.Filters.Add<SimpleActionFilter>();
 }).AddJsonOptions(o => { });
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -51,7 +47,6 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
-
 var jwtSection = builder.Configuration.GetSection("Jwt");
 var key = Encoding.UTF8.GetBytes(jwtSection["Key"]!);
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -68,26 +63,16 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             IssuerSigningKey = new SymmetricSecurityKey(key)
         };
     });
-
 builder.Services.AddAuthorization();
-
 var app = builder.Build();
-
 app.UseMiddleware<RequestResponseLoggingMiddleware>();
-
 app.UseSwagger();
 app.UseSwaggerUI();
-
 app.UseHttpsRedirection();
-
 app.UseRouting();
-
 app.UseAuthentication();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
@@ -114,5 +99,4 @@ using (var scope = app.Services.CreateScope())
     }
     db.SaveChanges();
 }
-
 app.Run();

@@ -3,6 +3,33 @@
   "WorkspaceRootPath": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Business\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\CSharpLifeCycle.Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Business\\CSharpLifeCycle.Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\CSharpLifeCycle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\CSharpLifeCycle.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\ProductService.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Business\\Services\\ProductService.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -15,10 +42,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Business\\Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Business\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -27,24 +50,24 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\User.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Data\\Models\\User.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Data\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle.Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\CSharpLifeCycle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,18 +88,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\CSharpLifeCycle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpLifeCycle\\CSharpLifeCycle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\BasicSyntax\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,209 +118,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\IAuthService.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IAuthService.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:10:04.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\IProductService.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IProductService.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:10:14.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\ProductService.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\ProductService.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:10:23.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\AuthService.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\AuthService.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:09:54.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDtos.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:09:14.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthDtos.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:08:38.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\Class1.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Class1.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:07:01.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CSharpLifeCycle.Data.csproj",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj",
               "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj",
               "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj",
               "RelativeToolTip": "CSharpLifeCycle.Data\\CSharpLifeCycle.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-16T18:04:29.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\AppDbContext.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\AppDbContext.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\AuthService.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:06:32.922Z",
+              "WhenOpened": "2025-08-16T18:09:54.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\Models\\User.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\User.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:05:45.068Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\appsettings.Development.json",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\appsettings.Development.json",
+              "RelativeToolTip": "CSharpLifeCycle\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T04:35:04.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\Models\\Product.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\Product.cs",
-              "RelativeToolTip": "CSharpLifeCycle.Data\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:05:31.002Z",
+              "DocumentIndex": 3,
+              "Title": "CSharpLifeCycle.Business.csproj",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\CSharpLifeCycle.Business.csproj",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\CSharpLifeCycle.Business.csproj",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\CSharpLifeCycle.Business.csproj",
+              "RelativeToolTip": "CSharpLifeCycle.Business\\CSharpLifeCycle.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T04:37:23.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle\\Program.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Program.cs",
-              "RelativeToolTip": "CSharpLifeCycle\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T18:02:29.543Z",
+              "DocumentIndex": 4,
+              "Title": "CSharpLifeCycle.csproj",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\CSharpLifeCycle.csproj",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj",
+              "RelativeToolTip": "CSharpLifeCycle\\CSharpLifeCycle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T17:34:52.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RequestResponseLoggingMiddleware.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
-              "RelativeToolTip": "CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T18:28:25.378Z",
+              "DocumentIndex": 5,
+              "Title": "CSharpLifeCycle.csproj.user",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj.user",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\CSharpLifeCycle.csproj.user",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj.user",
+              "RelativeToolTip": "CSharpLifeCycle\\CSharpLifeCycle.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-08-17T04:32:10.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SimpleActionFilter.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
-              "RelativeToolTip": "CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T18:33:57.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "CSharpLifeCycle\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T18:38:25.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "CSharpLifeCycle\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "CSharpLifeCycle\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T17:36:36.324Z",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAADoHAAAAAAAAAAAQwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-17T04:59:38.255Z",
               "EditorCaption": ""
             },
             {
@@ -327,20 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CSharpLifeCycle.csproj",
-              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj",
-              "RelativeDocumentMoniker": "CSharpLifeCycle\\CSharpLifeCycle.csproj",
-              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.csproj",
-              "RelativeToolTip": "CSharpLifeCycle\\CSharpLifeCycle.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-13T17:34:52.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "CSharpLifeCycle.http",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\CSharpLifeCycle.http",
               "RelativeDocumentMoniker": "CSharpLifeCycle\\CSharpLifeCycle.http",
@@ -353,7 +232,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\Program.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Program.cs",
+              "RelativeToolTip": "CSharpLifeCycle\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:02:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "CSharpLifeCycle\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:28:25.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "SimpleActionFilter.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
+              "RelativeToolTip": "CSharpLifeCycle\\Filters\\SimpleActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:33:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CSharpLifeCycle\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:38:25.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CSharpLifeCycle\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:36:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\ProductService.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\ProductService.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\ProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:10:23.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\IProductService.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IProductService.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:10:14.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Business\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:10:04.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Business\\DTOs\\ProductDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:09:14.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Business\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:08:38.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\Models\\User.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\User.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:05:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\Models\\Product.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\Models\\Product.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:05:31.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CSharpLifeCycle.Data\\AppDbContext.cs",
+              "ToolTip": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\CSharpLifeCycle.Data\\AppDbContext.cs",
+              "RelativeToolTip": "CSharpLifeCycle.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:06:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\BasicSyntax\\Program.cs",
               "RelativeDocumentMoniker": "BasicSyntax\\Program.cs",
@@ -366,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ClassArrayModifiers.csproj",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\ClassArrayModifiers.csproj",
               "RelativeDocumentMoniker": "ClassArrayModifiers\\ClassArrayModifiers.csproj",
@@ -379,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\Student.cs",
               "RelativeDocumentMoniker": "ClassArrayModifiers\\Student.cs",
@@ -392,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FINT_Project\\AnhLT1908\\AnhLT_LearnDotNet\\ClassArrayModifiers\\Program.cs",
               "RelativeDocumentMoniker": "ClassArrayModifiers\\Program.cs",

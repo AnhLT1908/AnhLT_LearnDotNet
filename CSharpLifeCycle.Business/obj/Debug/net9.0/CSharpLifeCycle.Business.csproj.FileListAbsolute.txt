@@ -1,0 +1,6 @@
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Business\obj\Debug\net9.0\CSharpLifeCycle.Business.csproj.AssemblyReference.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Business\obj\Debug\net9.0\CSharpLifeCycle.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Business\obj\Debug\net9.0\CSharpLifeCycle.Business.AssemblyInfoInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Business\obj\Debug\net9.0\CSharpLifeCycle.Business.AssemblyInfo.cs
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Business\obj\Debug\net9.0\CSharpLifeCycle.Business.csproj.CoreCompileInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Business\obj\Debug\net9.0\CSharpLifeCycle.Business.sourcelink.json

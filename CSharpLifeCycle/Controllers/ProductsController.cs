@@ -1,5 +1,5 @@
-﻿using CSharpLifeCycle.DTOs;
-using CSharpLifeCycle.Services;
+﻿using CSharpLifeCycle.Business.DTOs;
+using CSharpLifeCycle.Business.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 

@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace CSharpLifeCycle.DTOs
+namespace CSharpLifeCycle.Business.DTOs
 {
     public class RegisterRequest
     {
@@ -8,13 +8,11 @@ namespace CSharpLifeCycle.DTOs
         [Required] public string Password { get; set; } = string.Empty;
         public string? FullName { get; set; }
     }
-
     public class LoginRequest
     {
         [Required] public string Username { get; set; } = string.Empty;
         [Required] public string Password { get; set; } = string.Empty;
     }
-
     public class AuthResponse
     {
         public string Token { get; set; } = string.Empty;

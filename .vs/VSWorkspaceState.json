@@ -3,10 +3,15 @@
     "",
     "\\CSharpLifeCycle",
     "\\CSharpLifeCycle.Business",
+    "\\CSharpLifeCycle.Business\\obj",
     "\\CSharpLifeCycle.Business\\Services",
     "\\CSharpLifeCycle.Data",
-    "\\CSharpLifeCycle.Data\\Models"
+    "\\CSharpLifeCycle.Data\\Models",
+    "\\CSharpLifeCycle\\Controllers",
+    "\\CSharpLifeCycle\\Filters",
+    "\\CSharpLifeCycle\\Middleware",
+    "\\CSharpLifeCycle\\Properties"
   ],
-  "SelectedNode": "\\CSharpLifeCycle.Business\\DTOs",
+  "SelectedNode": "\\CSharpLifeCycle\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }

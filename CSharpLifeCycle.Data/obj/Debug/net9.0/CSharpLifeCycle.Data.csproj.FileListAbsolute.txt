@@ -1,0 +1,13 @@
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\bin\Debug\net9.0\CSharpLifeCycle.Data.deps.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\bin\Debug\net9.0\CSharpLifeCycle.Data.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\bin\Debug\net9.0\CSharpLifeCycle.Data.pdb
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.csproj.AssemblyReference.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.AssemblyInfoInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.AssemblyInfo.cs
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.csproj.CoreCompileInputs.cache
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.sourcelink.json
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\refint\CSharpLifeCycle.Data.dll
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\CSharpLifeCycle.Data.pdb
+D:\FINT_Project\AnhLT1908\AnhLT_LearnDotNet\CSharpLifeCycle.Data\obj\Debug\net9.0\ref\CSharpLifeCycle.Data.dll

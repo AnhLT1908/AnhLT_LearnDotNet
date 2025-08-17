@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpLifeCycle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3731ea4ad02e9c6619a193e81445c92a7e32ad83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48e93d65324bba96cb756813685e191f763453d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpLifeCycle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpLifeCycle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

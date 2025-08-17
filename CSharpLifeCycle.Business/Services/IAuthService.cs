@@ -1,7 +1,7 @@
-using CSharpLifeCycle.DTOs;
-using CSharpLifeCycle.Models;
+using CSharpLifeCycle.Business.DTOs;
+using CSharpLifeCycle.Data.Models;
 
-namespace CSharpLifeCycle.Services
+namespace CSharpLifeCycle.Business.Services
 {
     public interface IAuthService
     {
